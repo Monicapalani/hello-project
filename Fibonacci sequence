@@ -1,0 +1,17 @@
+Print ("python program to print Fibonacci sequence")
+   a=0
+   b=1
+Number=int(input("enter a number:"))
+if number==1
+    Print (a)
+elif number==2
+    Print (a)
+    Print (b)
+elif number<=0
+    Print ("Enter a valid number")
+else
+   for i in range(2, number):
+    c=a+b
+    Print (c)
+    a=b
+    b=c
